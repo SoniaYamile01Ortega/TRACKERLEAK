@@ -1,0 +1,2 @@
+
+INSERT INTO `usuarios` (`idusuario`, `nombres`, `apellidos`, `tipo`, `documento`, `ubicacion`, `celular`, `email`, `cargo`, `foto`, `login`, `clave`, `condicion`, `id_usuario_permiso`, `id_permiso`, `Id_Aprendiz`, `Id_Instructor`) VALUES (NULL, 'Ricardo', 'Monroy', '2', '5050', 'Bogotá', '3005252', 'ricardo01@Gmail.com', 'Aprendiz', NULL, '123', '123', '1', '3', '3', '1', '0');
